@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tourist_in_Russia</string>
+    <string name="region">Регион</string>
+    <string name="application">Приложения</string>
+    <string name="entertainments">Развлечения</string>
+    <string name="cash">Бюджет</string>
+
+</resources>
